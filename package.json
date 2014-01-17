@@ -1,0 +1,31 @@
+{
+  "name": "xfo-whitelist",
+  "version": "0.0.0",
+  "description": "Apply X-Frame-Options based on a whitelist",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jshint *.js test/*.js && node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbuck/xfo-whitelist.git"
+  },
+  "keywords": [
+    "xframe",
+    "xfo",
+    "whitelist",
+    "x-frame-options"
+  ],
+  "author": "Jon Buckley <jon@jbuckley.ca>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jbuck/xfo-whitelist/issues"
+  },
+  "homepage": "https://github.com/jbuck/xfo-whitelist",
+  "devDependencies": {
+    "jshint": "~2.4.1"
+  }
+}
