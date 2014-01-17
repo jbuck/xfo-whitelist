@@ -1,6 +1,6 @@
 {
   "name": "xfo-whitelist",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Apply X-Frame-Options based on a whitelist",
   "main": "index.js",
   "directories": {
